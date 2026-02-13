@@ -33,9 +33,8 @@ I enjoy working at the intersection of **engineering, reliability, and automatio
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**AWS:** EC2, ECS, EKS, S3, IAM, RDS, CloudWatch, Lambda  
+**AWS:** EC2, ECS, EKS, S3, IAM, RDS, CloudWatch, Lambda, AWS-Gaurduty, EBS, RDS, SNS, SQS, Route53, Fargate, ALB, ELB, etc.  
 **Azure:** VMs, App Services, AKS, Azure DevOps
-
 ---
 
 ### 🧱 Infrastructure as Code
