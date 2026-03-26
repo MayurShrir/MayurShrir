@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur</h1>
-<h3 align="center">🚀 DevOps Engineer | Terraform | CI/CD | AWS | Azure</h3>
+<h3 align="center">🚀 DevOps Engineer | DevSecOps | Terraform | CI/CD | AWS | Azure</h3>
 
 <p align="center">
   Building scalable, secure, and automated cloud infrastructure with a Terraform-first mindset.
